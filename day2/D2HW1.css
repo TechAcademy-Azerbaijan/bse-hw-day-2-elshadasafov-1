@@ -1,0 +1,79 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+#h1{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 49px;
+    color: #109E97;
+}
+#h2{
+    text-align: left;
+    font-size: 23px;
+}
+#div{
+    display: inline-block;
+}
+#p1{
+    display: inline;
+    font-size: 25px;
+    color: #008000;
+    font-weight: bold;
+}
+
+#p2{
+    display: inline;
+    font-size: 15px;
+    color: #FF0000;
+    font-weight: bold;
+}
+#dis{
+    background-color: #000000;
+    text-align: right;
+    color: white;
+}
+#d1{
+    font-size: 20px;
+}
+#d2{
+    font-size: 18px;
+}
+#h4{
+    font-size: 16px;
+}
+#h5{
+    font-size: 14px;
+}
+#p3{
+    background-color: #109E97;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+}
+
+    /* width: 339px;
+    height: 512px; */
+
+
+#div1{
+    background-image: url("Inkognito.png");
+    width: 25%;
+    height: 555px;
+    background-size: cover;
+    display: inline-block;
+    
+}
+#div2{
+    width: 49%;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+#div3{
+    background-image: url("Inkognito.png");
+    width: 25%;
+    height: 555px;
+    background-size: cover;
+    display: inline-block;
+}
